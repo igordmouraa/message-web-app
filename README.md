@@ -51,3 +51,6 @@ Este projeto é uma aplicação de chat em tempo real desenvolvida com **Next.js
    npm run build
    npm start
    ```
+
+## 📄 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
